@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Maria",
+      "password": "maria12345",
+      "gender": "female",
+      "dob": "1996-01-01",
+      "email": "maria@gmail.com",
+      "mobilenumber": 1234567890,
+      "pincode": 123456,
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India"
+    },
+    {
+      "id": "fabb",
+      "name": "vishnu",
+      "password": "peddinti",
+      "mobilenumber": "5623452342",
+      "email": "peddinti.vishnu@infosys.com",
+      "dob": "1945-01-02",
+      "gender": "male",
+      "pincode": "534329",
+      "city": "hyderabad",
+      "state": "telangana",
+      "country": "bharath"
+    },
+    {
+      "id": "8343",
+      "name": "itachi",
+      "password": "ygygtdd",
+      "mobilenumber": "1212121212",
+      "email": "peddinti.vishnu@infosys.com",
+      "dob": "2000-05-31",
+      "gender": "male",
+      "pincode": "177779",
+      "city": "ttdtfyfyyf",
+      "state": "fdruygyuguyg",
+      "country": "Indiadtdtdr"
+    }
+  ],
+  "coaches": [
+    {
+      "id": "1",
+      "name": "Rose",
+      "password": "rose12345",
+      "gender": "female",
+      "dob": "1996-01-01",
+      "mobilenumber": 1234567890,
+      "speciality": "Confidence Issues"
+    },
+    {
+      "id": "0a75",
+      "name": "vishnu",
+      "password": "peddinti",
+      "dob": "1999-08-01",
+      "gender": "male",
+      "mobilenumber": "9642856033",
+      "speciality": "depression"
+    },
+    {
+      "id": "25d4",
+      "name": "vishnu",
+      "password": "peddinti",
+      "dob": "1999-08-01",
+      "gender": "male",
+      "mobilenumber": "9642856033",
+      "speciality": "depression"
+    },
+    {
+      "id": "1349",
+      "name": "vishnu",
+      "password": "hijndc",
+      "dob": "1998-02-11",
+      "gender": "male",
+      "mobilenumber": "9642856033",
+      "speciality": "depression"
+    },
+    {
+      "id": "67ea",
+      "name": "vishnu",
+      "password": "hidead",
+      "dob": "1998-11-22",
+      "gender": "male",
+      "mobilenumber": "9542784566",
+      "speciality": "depression"
+    },
+    {
+      "id": "8939",
+      "name": "vishnu",
+      "password": "hidcasd",
+      "dob": "1997-11-12",
+      "gender": "male",
+      "mobilenumber": "3322445566",
+      "speciality": "depression"
+    },
+    {
+      "id": "fbb5",
+      "name": "sriram",
+      "password": "adffvgs",
+      "dob": "1999-12-12",
+      "gender": "male",
+      "mobilenumber": "9642856033",
+      "speciality": "depression"
+    },
+    {
+      "id": "e52c",
+      "name": "itachi",
+      "password": "uchiha",
+      "dob": "1964-01-08",
+      "gender": "male",
+      "mobilenumber": "0562345234",
+      "speciality": "mangekyo sharingen"
+    },
+    {
+      "id": "9619",
+      "name": "sasuke",
+      "password": "uchiha",
+      "dob": "1975-01-02",
+      "gender": "male",
+      "mobilenumber": "0123434322",
+      "speciality": "susano"
+    },
+    {
+      "id": "d065",
+      "name": "sasuke",
+      "password": "uchiha",
+      "dob": "1975-01-02",
+      "gender": "male",
+      "mobilenumber": "0123444444",
+      "speciality": "susano"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "cd8e",
+      "appointmentDate": "2024-06-26",
+      "slot": "9AM to 10AM",
+      "userId": "1",
+      "coachId": "1"
+    }
+  ]
+}
